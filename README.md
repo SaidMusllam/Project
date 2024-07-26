@@ -9,6 +9,7 @@ This project about shooting game which has a multiple level, you can use keyboar
   <li>Exit</li>
 </ul>
 
+###  Each option in the main menue well take you to different scene
 
 
 
